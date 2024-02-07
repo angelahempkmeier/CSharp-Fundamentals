@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Angela\\Desktop\\angela-personal\\github\\CSharp-Fundamentals\\MeuApp\\MeuApp.csproj": {}
+    "c:\\Users\\Angela\\Desktop\\angela-personal\\github\\CSharp-Fundamentals\\MeuApp\\MeuApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Angela\\Desktop\\angela-personal\\github\\CSharp-Fundamentals\\MeuApp\\MeuApp.csproj": {
+    "c:\\Users\\Angela\\Desktop\\angela-personal\\github\\CSharp-Fundamentals\\MeuApp\\MeuApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angela\\Desktop\\angela-personal\\github\\CSharp-Fundamentals\\MeuApp\\MeuApp.csproj",
+        "projectUniqueName": "c:\\Users\\Angela\\Desktop\\angela-personal\\github\\CSharp-Fundamentals\\MeuApp\\MeuApp.csproj",
         "projectName": "MeuApp",
-        "projectPath": "C:\\Users\\Angela\\Desktop\\angela-personal\\github\\CSharp-Fundamentals\\MeuApp\\MeuApp.csproj",
+        "projectPath": "c:\\Users\\Angela\\Desktop\\angela-personal\\github\\CSharp-Fundamentals\\MeuApp\\MeuApp.csproj",
         "packagesPath": "C:\\Users\\Angela\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angela\\Desktop\\angela-personal\\github\\CSharp-Fundamentals\\MeuApp\\obj\\",
+        "outputPath": "c:\\Users\\Angela\\Desktop\\angela-personal\\github\\CSharp-Fundamentals\\MeuApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Angela\\AppData\\Roaming\\NuGet\\NuGet.Config",

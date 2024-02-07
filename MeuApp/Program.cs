@@ -3,7 +3,8 @@
 namespace MeuApp{
     class Program{
         static void Main(string[] args){
-            Console.WriteLine("Hello World!");
+            var text = "testing";
+            Console.WriteLine(text);
         }
     }
 }
