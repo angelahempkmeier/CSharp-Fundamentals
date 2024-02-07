@@ -1,0 +1,15 @@
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\bin\Debug\net8.0\MeuApp.exe
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\bin\Debug\net8.0\MeuApp.deps.json
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\bin\Debug\net8.0\MeuApp.runtimeconfig.json
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\bin\Debug\net8.0\MeuApp.dll
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\bin\Debug\net8.0\MeuApp.pdb
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\obj\Debug\net8.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfo.cs
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\obj\Debug\net8.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\obj\Debug\net8.0\MeuApp.sourcelink.json
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\obj\Debug\net8.0\MeuApp.dll
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\obj\Debug\net8.0\refint\MeuApp.dll
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\obj\Debug\net8.0\MeuApp.pdb
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\obj\Debug\net8.0\MeuApp.genruntimeconfig.cache
+C:\Users\Angela\Desktop\angela-personal\github\CSharp-Fundamentals\MeuApp\obj\Debug\net8.0\ref\MeuApp.dll
