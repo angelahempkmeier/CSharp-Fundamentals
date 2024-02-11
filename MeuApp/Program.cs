@@ -13,6 +13,14 @@ namespace MeuApp{
             Console.WriteLine(idade);
             idade = 25;
             Console.WriteLine(idade);
+
+            //parses
+            int inteiro = 100;
+            float real = 25.5f;
+            real = inteiro; // 100.0f
+            inteiro = (int)real;
+            inteiro = int.Parse(real.ToString());
+            inteiro = Convert.ToInt32(real);
         }
     }
 }
